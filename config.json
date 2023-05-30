@@ -1,0 +1,73 @@
+{
+  "C_Cpp.addNodeAddonIncludePaths": true,
+  "code-runner.runInTerminal": true,
+  "explorer.confirmDelete": false,
+  "[html]": {
+    "editor.defaultFormatter": "j69.ejs-beautify"
+  },
+  "files.autoSave": "afterDelay",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.startupEditor": "none",
+  "git.confirmSync": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.renderWhitespace": "all",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "editor.accessibilitySupport": "off",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "editor.scrollbar.verticalScrollbarSize": 10,
+  "editor.minimap.maxColumn": 60,
+  "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": false,
+  "zenMode.hideActivityBar": false,
+  "editor.scrollbar.horizontalScrollbarSize": 3,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "zenMode.hideTabs": false,
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#00000000",
+    "editorGroupHeader.tabsBorder": "#00000000",
+    "editorGroupHeader.border": "#00000000",
+    "tab.inactiveBackground": "#00000000",
+    // "activityBar.background": "#00000000",
+    "activityBar.border": "#c716160c",
+    // "widget.shadow": "#ffffff00",
+    "scrollbar.shadow": "#ffffff00",
+    "tab.activeBorderTop": "#cacdcf50",
+    // "tab.activeBorder": "#cacdcf50",
+    "tab.border": "#7371710f",
+    "editorOverviewRuler.border": "#e2e2e200",
+    "titleBar.inactiveBackground": "#00000000",
+    "titleBar.activeBackground": "#b8111100"
+    // "sideBarSectionHeader.background": "#000000",
+    // "sideBar.border": "#00000000"
+  },
+  "breadcrumbs.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "reactSnippets.settings.prettierEnabled": true,
+  "window.nativeTabs": true,
+  "editor.fontSize": 10.5,
+  "terminal.integrated.fontSize": 11,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
